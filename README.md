@@ -1,4 +1,4 @@
-# Rubiks-Cube
+# Rubiks-Cube - ON PAUSE
 The Rubiks-Cube repo is a project where I am testing and learning about how PyGame works. 
 This is my personal project in attempting to create a python version of a Rubik's cube. 
 The goals of the project will be the following in order of priority:  
